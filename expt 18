@@ -1,5 +1,5 @@
-/*Name-Purvansha Gehlod
-PRN-220701230888
+/*Name-Pradnesh Kapte
+PRN-22070123082
 Exp-18*/
 #define ERROR -9999
 #define MAXSIZE 10
@@ -67,8 +67,8 @@ int main()
 /*Output
 Stack is empty
 */
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*Name-Pradnesh Kapte
+PRN-22070123082
 Exp_18
 Stack implementation using array.
 menu options - i) Push ii) Pop iii) Display iv) exit
