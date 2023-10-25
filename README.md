@@ -1,4 +1,4 @@
-## # **Stack**
+##**Stack**
 # **AIM**
 
 Stack implementation using array.
